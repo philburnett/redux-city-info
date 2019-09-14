@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import {connect} from 'react-redux';
 import {Sparklines, SparklinesLine, SparklinesReferenceLine} from 'react-sparklines';
 import _ from 'lodash';
-import Map from './../components/map';
+import Map from '../components/map';
 
 class WeatherList extends Component {
 
